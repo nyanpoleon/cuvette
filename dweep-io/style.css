@@ -19,13 +19,14 @@
 }
 
 .ft-right{
-    border: solid;
+    
     width: 720px;
-    height: 445px;
+    height: 298px;
+    
 }
 
 .ft-left{
-    border: solid;
+    
     width: 720px;
-    height: 445px;
+    height: 298px;
 }
