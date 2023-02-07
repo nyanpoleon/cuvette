@@ -55,3 +55,13 @@
     font-weight: 700;
     line-height: 150%;
 }
+
+.content{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
+
+.content-a{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+}
