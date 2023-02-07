@@ -33,6 +33,11 @@
     
     width: 720px;
     height: 298px;
+    font-size: 17px;
+    margin-top: 91px;
+    line-height: 160%;
+    text-align: right;
+    margin-right: 151px;
 }
 
 .ft-left{
