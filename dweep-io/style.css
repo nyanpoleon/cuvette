@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 .header-container{
     display: flex;
@@ -25,7 +25,7 @@
 .left{
     
     width: 720px;
-    height: 445px;
+    height: 500px;
 }
 
 
@@ -45,13 +45,13 @@
 .indextext{
     margin-left: 151px;
     margin-top: 91px;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 160%;
 }
 
 .heading{
     font-family: 'Inter', sans-serif;
-    font-weight: 800;
+    font-weight: bolder;
     font-size: 36px;
     font-weight: 700;
     line-height: 150%;
@@ -60,14 +60,14 @@
 
 .content{
     font-family: 'Inter', sans-serif;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 160%;
     margin-left: 120px;
 }
 
 .content-a{
     font-family: 'Inter', sans-serif;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 160%;
     font-weight: 800;
     display: flex;
