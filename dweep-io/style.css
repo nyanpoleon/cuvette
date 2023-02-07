@@ -1,32 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 .header-container{
     display: flex;
+    background-color: #FFCD9E;
+    
 }
 
 .footer-container{
     display: flex;
+    background-color: #282828;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    
 }
 
+
 .right{
-    border: solid;
+    
     width: 720px;
     height: 445px;
 }
 
 .left{
-    border: solid;
+    
     width: 720px;
     height: 445px;
 }
+
 
 .ft-right{
     
     width: 720px;
     height: 298px;
-    
 }
 
 .ft-left{
     
     width: 720px;
     height: 298px;
+    
+}
+
+.indextext{
+    margin-left: 151px;
+    margin-top: 91px;
+    font-size: 20px;
+    line-height: 160%;
+}
+
+.heading{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 150%;
 }
